@@ -89,7 +89,7 @@
             <div class="box">
 
 
-                  <h1>OTP Sucess</h1>
+                  <h1>Login Sucess</h1>
 
                  <h1>congratulations.......... </h1>
               
